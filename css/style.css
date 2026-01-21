@@ -17,3 +17,9 @@ h3 {
     padding-bottom: 100px;
     color: blue;
 }
+
+p {
+    line-height: 2.3;
+    letter-spacing: 1px;
+    padding: 20px 0;
+}
