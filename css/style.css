@@ -21,5 +21,8 @@ h3 {
 p {
     line-height: 2.3;
     letter-spacing: 1px;
+}
+
+p:last-of-type {
     padding: 20px 0;
 }
